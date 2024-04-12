@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shakeenyi89
 - 👀 I’m interested in getting mentoring and tutorinng i this tech field
 - 🌱 I’m currently learning rapid tech skills including, software engineering, cyber security, machine learning, and AI
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me shakeenyi@gmailcom
 - 😄 Pronouns: she
 - ⚡ Fun fact: I always stay positie
