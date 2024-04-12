@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning rapid tech skills including, software engineering, cyber security, machine learning, and AI
 - 📫 How to reach me shakeenyi@gmailcom
 - 😄 Pronouns: she
-- ⚡ Fun fact: positive viibes only
+- ⚡ Fun fact: Positive vibes only
 
 <!---
 shakeenyi89/shakeenyi89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
